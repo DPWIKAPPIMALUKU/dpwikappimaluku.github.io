@@ -1,2 +1,2 @@
-# dpwikappimaluku.github.io
+# dpwikappimaluku.io
 Website resmi DPW IKAPPI Provinsi Maluku
